@@ -249,10 +249,13 @@ body {
 
 .phone-home-button {
     position: relative;
-    height: 0.5vh;
-    width: 10vh;
-    background-color: white;
-    border-radius: 0.8vh;
+    height: 1.5vh;
+    width: 1.5vh;
+    background-color: #0e0e0e;
+    border-radius: 50%;
+    border: white;
+    border-style: solid;
+    border-width: thin;
     top: 80%;
     transform: translateY(-50%);
     margin: 0px auto;
@@ -291,13 +294,13 @@ body {
 .phone-footer-applications {
     position: absolute;
     width: 100%;
-    bottom: 7vh;
+    bottom: 52vh;
 }
 
 .phone-home-applications {
     position: absolute;
     width: 100%;
-    bottom: 17vh;
+    bottom: 27vh;
 }
 
 .phone-application > i {
