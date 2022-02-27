@@ -131,7 +131,7 @@ Config.PhoneApplications = {
         tooltipText = "MDT",
         job = "police",
         blockedjobs = {},
-        slot = 13,
+        slot = 15,
         Alerts = 0,
     },
     ["lawyers"] = {
@@ -153,7 +153,7 @@ Config.PhoneApplications = {
         tooltipPos = "bottom",
         job = false,
         blockedjobs = {},
-        slot = 16,
+        slot = 14,
         Alerts = 0,
     },
     ["camera"] = {
@@ -164,9 +164,20 @@ Config.PhoneApplications = {
         tooltipPos = "bottom",
         job = false,
         blockedjobs = {},
-        slot = 15,
+        slot = 13,
         Alerts = 0,
     },
+    -- ["qstore"] = {
+    --     app = "qstore",
+    --     color = "#0c666d",
+    --     icon = "fab fa-app-store-ios",
+    --     tooltipText = "App Store",
+    --     tooltipPos = "bottom",
+    --     job = false,
+    --     blockedjobs = {},
+    --     slot = 16,
+    --     Alerts = 0,
+    -- },
 }
 Config.MaxSlots = 20
 
@@ -180,7 +191,7 @@ Config.StoreApps = {
         style = "";
         job = false,
         blockedjobs = {},
-        slot = 16,
+        slot = 17,
         Alerts = 0,
         password = true,
         creator = "QBCore",
