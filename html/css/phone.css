@@ -4,7 +4,8 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
 
@@ -92,7 +93,8 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .phone-recent {
@@ -101,7 +103,8 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .phone-recent-header {
@@ -379,7 +382,8 @@
     height: 100%;
     width: 100%;
     top: -100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     z-index: 102;
 }
 
@@ -534,7 +538,8 @@
     height: 100%;
     width: 100%;
     top: -100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     z-index: 102;
 }
 
@@ -945,7 +950,8 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .phone-suggestedcontacts-header {

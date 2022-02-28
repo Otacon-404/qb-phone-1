@@ -251,7 +251,8 @@ body {
     position: relative;
     height: 1.5vh;
     width: 1.5vh;
-    background-color: #0e0e0e;
+    background-color: #000000;
+    /* background-color: #0e0e0e; */
     border-radius: 50%;
     border: white;
     border-style: solid;

@@ -103,7 +103,8 @@
     width: 100%;
     left: 0;
     right: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .settings-profilepicture-tab {
@@ -114,7 +115,8 @@
     width: 100%;
     left: 0;
     right: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .background-options {

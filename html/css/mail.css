@@ -4,7 +4,8 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
 
@@ -17,7 +18,8 @@
     display: block;
     height: 14vh;
     width: 100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 #mail-header-text {
@@ -122,7 +124,8 @@
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     overflow: hidden;
     top: 0;
     left: -30vh;
@@ -266,7 +269,8 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
 
@@ -354,7 +358,8 @@
     line-height: 4.2vh;
     font-size: 2.3vh;
     color: white;
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
 }
 
 .test-slet:hover {
@@ -373,7 +378,8 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(36, 36, 36);
+    background: rgb(0, 0, 0);
+    /* background: rgb(36, 36, 36); */
     overflow: hidden;
     left: -30vh;
 }
