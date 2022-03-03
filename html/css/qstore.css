@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 .store-app {
     display: none;
@@ -22,7 +23,8 @@
     position: absolute;
     left: 1.9vh;
     top: 5vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.8vh;
 }
 
@@ -89,7 +91,8 @@
     position: absolute;
     top: 1vh;
     left: 6.9vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.4vh;
 }
 
@@ -97,7 +100,8 @@
     position: absolute;
     bottom: 2.2vh;
     left: 6.9vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.2vh;
 }
 
@@ -161,7 +165,8 @@
     right: 0;
     text-align: center;
     line-height: 4vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.4vh;
 }
 
@@ -169,7 +174,8 @@
     color: black;
     position: absolute;
     text-align: center;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1vh;
 
     top: 3.2vh;
@@ -185,7 +191,8 @@
     top: 7vh;
 
     border-bottom: .2vh solid rgb(209, 209, 209);
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     text-align: center;
 
     transition: .2s ease-in-out;

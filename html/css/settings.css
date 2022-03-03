@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 .settings-app {
     display: none;
@@ -10,7 +11,8 @@
 
 .settings-app-header {
     position: relative;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 3vh;
     text-align: center;
     top: 70px;
@@ -52,7 +54,8 @@
     position: absolute;
     top: -2.5vh;
     height: 2.6vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
     border-bottom: 1px solid rgba(0, 0, 0, 0.17);
     width: 100%;
@@ -83,7 +86,8 @@
     left: 6.2vh;
     top: 1.2vh;
     font-size: 1.3vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .settings-tab-description {
@@ -91,7 +95,8 @@
     left: 6.2vh;
     top: 3.2vh;
     font-size: 1.2vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     color: white;
 }
 
@@ -161,7 +166,8 @@
     font-size: 1vh;
     color: white;
     font-size: 1.3vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .background-option-description {
@@ -172,7 +178,8 @@
     font-size: 1vh;
     color: white;
     font-size: 1.1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .background-option-current {
@@ -182,7 +189,8 @@
     text-align: center;
     font-size: 1.6vh;
     color: green;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .background-buttons {
@@ -200,7 +208,8 @@
     text-align: center;
     line-height: 4.7vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
     transition: .05s;
 }
@@ -225,7 +234,8 @@
 }
 
 .background-custom-title {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     padding: 2vh;
     font-size: 1.5vh;
     text-align: center;
@@ -239,7 +249,8 @@
     outline: none;
     height: 3.5vh;
     width: 21vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     background: rgb(235, 235, 235);
     border-radius: 2vh;
     text-align: center;
@@ -264,7 +275,8 @@
     text-align: center;
     line-height: 4.1vh;
     color: black;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
     transition: .08s;
     border-bottom: 2px solid #e8421800;
@@ -313,7 +325,8 @@
     font-size: 1vh;
     color: white;
     font-size: 1.3vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .profilepicture-option-description {
@@ -324,7 +337,8 @@
     font-size: 1vh;
     color: white;
     font-size: 1.1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .profilepicture-option-current {
@@ -334,7 +348,8 @@
     text-align: center;
     font-size: 1.6vh;
     color: green;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .profilepicture-buttons {
@@ -352,7 +367,8 @@
     text-align: center;
     line-height: 4.7vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
 }
 
@@ -376,7 +392,8 @@
 }
 
 .profilepicture-custom-title {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     padding: 2vh;
     font-size: 1.5vh;
     text-align: center;
@@ -389,7 +406,8 @@
     outline: none;
     height: 3.5vh;
     width: 21vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     border-radius: 2vh;
     text-align: center;
 }
@@ -413,7 +431,8 @@
     text-align: center;
     line-height: 4.1vh;
     color: black;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
     transition: .08s;
     border-bottom: 2px solid #e8421800;

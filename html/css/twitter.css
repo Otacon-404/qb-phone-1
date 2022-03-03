@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 .twitter-app {
     display: none;
@@ -41,7 +42,8 @@
 .twitter-app-header {
     position: relative;
     padding: 5vh 0 0 1.85vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 2vh;
 }
 
@@ -171,13 +173,15 @@
 .tweet-tweeter {
     padding-left: 6vh;
     padding-top: .6vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.1vh;
 }
 
 .tweet-tweeter > span {
     position: relative;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.0vh;
     top: -.1vh;
 }
@@ -186,7 +190,8 @@
     margin-top: .3vh;
     padding-left: 6vh;
     top: .5vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.3vh;
     padding-bottom: 1vh;
     overflow-wrap: break-word;
@@ -234,7 +239,8 @@
 .twitter-new-tweet-header {
     position: relative;
     padding: 6vh 0 0 9vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 2vh;
     color: white;
 }
@@ -251,7 +257,8 @@
     outline: none;
     border: 2px solid #1DA1F2;
     resize: none;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     padding: 0.87vh;
     font-size: 1.4vh;
     top: 12vh;
@@ -266,7 +273,8 @@
 
 #tweet-new-message::placeholder {
     font-size: 1.4vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 #tweet-new-url{
@@ -280,7 +288,8 @@
     background: rgba(23, 23, 23, 90%);
     outline: none;
     resize: none;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     padding: 0.87vh;
     font-size: 1.4vh;
     top: 30vh;
@@ -308,7 +317,8 @@
     height: 100%;
     text-align: center;
     line-height: 4.5vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
     border-top: .3vh solid #6ab04c00;
     transition: .1s;
@@ -324,7 +334,8 @@
     top: 4vh;
     width: 100%;
     font-size: 2vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     color: white;
 }
 
@@ -356,7 +367,8 @@
     position: absolute;
     top: .8vh;
     left: 1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.1vh;
     color: white;
 }
@@ -365,7 +377,8 @@
     position: absolute;
     top: 2.5vh;
     left: 1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.4vh;
     color: white;
 }
@@ -373,7 +386,8 @@
     position: absolute;
     bottom: .8vh;
     left: 1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.1vh;
     color: white;
 }

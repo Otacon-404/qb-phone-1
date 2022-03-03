@@ -478,7 +478,7 @@ QB.Phone.Functions.UpdateTime = function(data) {
     }
     var MessageTime = Hourssssss + ":" + Minutessss
 
-    $("#phone-time").html("<span>" + data.InGameTime.hour + ":" + data.InGameTime.minute + "</span>");
+    $("#phone-time").html("<span>" + "Time - " + data.InGameTime.hour + ":" + data.InGameTime.minute + "</span>");
 }
 
 var NotificationTimeout = null;

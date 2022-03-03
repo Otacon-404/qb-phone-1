@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 @media all and (max-height: 812px) {
     :root { font-size: 13px; }
@@ -104,7 +106,9 @@ body {
     left: 4vh;
     font-size: 1.1vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 .phone-currentcall-contact {
@@ -113,7 +117,8 @@ body {
     left: 4vh;
     font-size: 1vh;
     color: rgba(255, 255, 255, 0.7);
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 /* Phone Container */
@@ -167,7 +172,8 @@ body {
 }
 
 #phone-server {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     font-size: 1vh;
     padding: 2vh 0 0 1vh;
@@ -176,7 +182,8 @@ body {
 }
 
 #player-id {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     font-size: 1vh;
     padding: 2vh 0 0 1vh;
@@ -185,10 +192,12 @@ body {
 }
 
 #phone-time {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1vh;
     padding: 2vh 0 0 5.5vh;
     float: left;
+    margin-left: 1%;
     color: white !important;
 }
 
@@ -349,7 +358,8 @@ body {
     top: 1vh;
     left: 4.5vh;
     font-size: 1.1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     color: #ffffff;
 }
 
@@ -358,7 +368,8 @@ body {
     top: 2.7vh;
     left: 4.5vh;
     font-size: 1vh;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     color: rgb(255, 255, 255);
     width: 16vh;
     overflow: hidden;
@@ -425,7 +436,8 @@ body {
     left: 7.5vh;
     font-size: 1.5vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .screen-notification-content {
@@ -434,7 +446,8 @@ body {
     left: 7.5vh;
     font-size: 1.2vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     height: 3.5vh;
     width: 26vh;
     overflow: hidden;
@@ -455,7 +468,8 @@ body {
     left: 7.5vh;
     font-size: 1.5vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
 }
 
 .call-notifications-content {
@@ -464,7 +478,8 @@ body {
     left: 7.5vh;
     font-size: 1.2vh;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     height: 3.5vh;
     width: 26vh;
     overflow: hidden;
@@ -481,7 +496,8 @@ body {
     line-height: 2vh;
     background: #d63031;
     border-radius: 50%;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Oswald', sans-serif;
     font-size: 1.1vh;
 }
 
