@@ -6,7 +6,7 @@
     height: 100%;
     width: 100%;
     overflow: hidden;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
 }
 
@@ -57,7 +57,7 @@
     width: 95%;
     height: 6vh;
     margin: 2.5%;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }

@@ -5,7 +5,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: #1A1F26;
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
@@ -19,14 +19,14 @@
     display: block;
     height: 14vh;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: #1A1F26;
     /* background: rgb(36, 36, 36); */
 }
 
 #mail-header-text {
     position: absolute;
     top: 5vh;
-    left: 12vh;
+    left: 13vh;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     font-size: 1.5vh;
@@ -36,7 +36,7 @@
 #mail-header-mail {
     position: absolute;
     top: 7vh;
-    left: 6vh;
+    left: 8.5vh;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     font-size: 1.3vh;
@@ -75,7 +75,7 @@
     margin-top: 2px;
     margin-bottom: 10px;
     transition: .05s ease-in-out;
-    background: rgba(23, 23, 23, 90%);
+    background: #2D455A;
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }
@@ -131,7 +131,7 @@
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: #1A1F26;
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
     top: 0;
@@ -279,7 +279,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: #1A1F26;
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
@@ -294,7 +294,7 @@
 #advert-header-text {
     position: absolute;
     top: 6vh;
-    left: 8vh;
+    left: 9vh;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     font-size: 1.8vh;
@@ -304,7 +304,7 @@
 #advert-header-name {
     position: absolute;
     top: 9vh;
-    left: 6vh;
+    left: 7vh;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     font-size: 1.4vh;
@@ -372,7 +372,7 @@
     line-height: 4.2vh;
     font-size: 2.3vh;
     color: white;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
 }
 
@@ -392,7 +392,7 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(0, 0, 0);
+    background: #1A1F26;
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
     left: -30vh;
@@ -449,7 +449,7 @@
     margin: 0 auto;
     left: 0;
     right: 0;
-    background-color: rgba(23, 23, 23, 90%);
+    background-color: rgb(48, 71, 93, 90%);
     outline: none;
     resize: none;
     /* font-family: 'Poppins', sans-serif; */
@@ -480,7 +480,7 @@
     resize: none;
     border-radius: 7px;
     border: 2px solid rgb(255, 154, 46);
-    background-color: rgba(23, 23, 23, 90%);
+    background-color: rgb(48, 71, 93, 90%);
     padding: 1.5vh;
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;

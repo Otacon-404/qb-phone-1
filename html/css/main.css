@@ -247,7 +247,8 @@ body {
 .phone-home-container {
     position: relative;
     height: 2.3vh;
-    width: 100%;
+    /* width: 100%; */
+    width: 8%;
     margin: 0 auto;
     top: 2vh;
     transform: translateY(-50%);

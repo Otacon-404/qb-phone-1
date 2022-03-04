@@ -5,7 +5,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
@@ -51,7 +51,7 @@
 }
 
 .phone-selected-footer-tab {
-    color: #dc143c;
+    color: #17a2b8;
 }
 
 .phone-contacts {
@@ -80,7 +80,7 @@
     width: 19vh;
     border-radius: 1vh;
     border: none;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     outline: none;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
     text-indent: 1vh;
@@ -99,7 +99,7 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
 }
 
@@ -109,7 +109,7 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
 }
 
@@ -141,7 +141,7 @@
     width: 90%;
     left: 15px;
     margin-bottom: 10px;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }
@@ -237,7 +237,7 @@
 
 .phone-keypad-key:hover {
     color: #6e6e6e;
-    border-bottom: 2px solid #e74c3c;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-contacts-header {
@@ -325,7 +325,7 @@
     height: 4.5vh;
     margin-top: 2px;
     margin-bottom: 10px;
-    background-color: rgba(23, 23, 23, 90%);
+    background-color: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }
@@ -397,7 +397,7 @@
     height: 100%;
     width: 100%;
     top: -100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
     z-index: 102;
 }
@@ -419,7 +419,7 @@
     background: none;
     border: none;
     outline: none;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.555);
+    border-bottom: 2px solid rgb(170, 170, 170);
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     height: 3.5vh;
@@ -439,7 +439,7 @@
 }
 
 .phone-add-contact-name:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-add-contact-name:valid {
@@ -454,7 +454,7 @@
     background: none;
     border: none;
     outline: none;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.555);
+    border-bottom: 2px solid rgb(170, 170, 170);
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     height: 3.5vh;
@@ -470,7 +470,7 @@
 }
 
 .phone-add-contact-number:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-add-contact-number:valid {
@@ -485,7 +485,7 @@
     background: none;
     border: none;
     outline: none;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.555);
+    border-bottom: 2px solid rgb(170, 170, 170);
     /* font-family: 'Poppins', sans-serif; */
     font-family: 'Oswald', sans-serif;
     height: 3.5vh;
@@ -501,7 +501,7 @@
 }
 
 .phone-add-contact-iban:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-add-contact-iban:valid {
@@ -547,7 +547,7 @@
 }
 
 .phone-add-contact-button:hover {
-    border-top: 2px solid #eb4d4b;
+    border-top: 2px solid #ffffff;
 }
 
 /* EDIT CONTACT YEEY */
@@ -558,7 +558,7 @@
     height: 100%;
     width: 100%;
     top: -100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
     z-index: 102;
 }
@@ -601,7 +601,7 @@
 }
 
 .phone-edit-contact-name:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-edit-contact-name:valid {
@@ -632,7 +632,7 @@
 }
 
 .phone-edit-contact-number:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-edit-contact-number:valid {
@@ -663,7 +663,7 @@
 }
 
 .phone-edit-contact-iban:focus {
-    border-bottom: 2px solid #30336b;
+    border-bottom: 2px solid #ffffff;
 }
 
 .phone-edit-contact-iban:valid {
@@ -709,7 +709,7 @@
 }
 
 .phone-edit-contact-button:hover {
-    border-top: 2px solid #eb4d4b;
+    border-top: 2px solid #ffffff;
 }
 
 /* Phone Call App */
@@ -982,7 +982,7 @@
     height: 100%;
     width: 100%;
     top: 0;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
 }
 
@@ -1023,7 +1023,7 @@
     height: 6vh;
     width: 100%;
     margin-bottom: 10px;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
     transition: .05s ease-in-out;

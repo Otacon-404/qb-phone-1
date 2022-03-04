@@ -5,7 +5,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
@@ -82,7 +82,7 @@
     width: 100%;
     transition: all 0.05s linear 0s;
     margin-bottom: 10px;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }
@@ -145,7 +145,7 @@
     margin: 0 auto;
     left: 0vw;
     right: 0;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
     border-radius: .5vh;
     box-shadow:
@@ -233,7 +233,7 @@
     left: 35vw;
     /* left: 0; */
     right: 0;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
     border-radius: .5vh;
     box-shadow:
@@ -249,7 +249,7 @@
     margin: 0 auto;
     left: 35vw;
     right: 0;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
     border-radius: .5vh;
     box-shadow:
@@ -397,7 +397,7 @@
     height: 7vh;
     margin-bottom: 10px;
     transition: 0.1s ease;
-    background: rgba(23, 23, 23, 90%);
+    background: rgb(45, 69, 90);
     border-radius: 0.15rem;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
 }

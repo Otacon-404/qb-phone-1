@@ -5,7 +5,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: rgb(33, 39, 48);
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
@@ -230,7 +230,7 @@
     top: -100%;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38);
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
     z-index: 105;
@@ -253,7 +253,7 @@
     left: 0;
     right: 0;
     color: white;
-    background-color: rgba(23, 23, 23, 90%);
+    background-color: rgba(46, 71, 93);
     outline: none;
     border: 2px solid #1DA1F2;
     resize: none;
@@ -285,7 +285,7 @@
     left: 0;
     right: 0;
     color: white;
-    background: rgba(23, 23, 23, 90%);
+    background: rgba(46, 71, 93);
     outline: none;
     resize: none;
     /* font-family: 'Poppins', sans-serif; */

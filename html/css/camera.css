@@ -6,7 +6,7 @@
     display: none;
     height: 100%;
     width: 100%;
-    background: rgb(0, 0, 0);
+    background: rgb(26, 31, 38, 90%);
     /* background: rgb(36, 36, 36); */
     overflow: hidden;
 }
