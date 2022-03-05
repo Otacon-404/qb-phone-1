@@ -5,6 +5,10 @@
  - All phone app icons are moved to the top
  - This phone also have the camera looping fixed when the webhook is setup. (now it will automatically close the app when you will try to click a photo. Thanks to this [commit](https://github.com/qbcore-framework/qb-phone/pull/264/commits).) 
 
+
+# Discord
+### If you need any help then you can contact me on my discord server
+[![Discord](https://discord.com/api/guilds/946308780629557289/widget.png?style=banner2)](https://discord.gg/xHde7g93Yh)
  
 ## Screenshots
 ![Home](https://i.imgur.com/QIUcIoK.png)
