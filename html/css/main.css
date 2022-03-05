@@ -259,16 +259,16 @@ body {
 
 .phone-home-button {
     position: relative;
-    height: 1.5vh;
-    width: 1.5vh;
+    height: 1.7vh;
+    width: 1.7vh;
     background-color: Transparent;
     background-repeat:no-repeat;
     /* background-color: #000000; */
     /* background-color: #0e0e0e; */
-    border-radius: 50%;
+    border-radius: 100%;
     border: white;
     border-style: solid;
-    border-width: thin;
+    border-width: 2.8px;
     top: 80%;
     transform: translateY(-50%);
     margin: 0px auto;
@@ -350,7 +350,7 @@ body {
     width: 5vh;
     text-align: center;
     line-height: 5.7vh;
-    color: #e74c3c;
+    color: #0078e9;
     font-size: 2.5vh;
 }
 

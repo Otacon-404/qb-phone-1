@@ -24,13 +24,13 @@
 .lawyers-header > p {
     line-height: 12vh;
     text-indent: 2vh;
-    margin: 0 0 0 9vh;
+    margin: 0 0 0 10vh;
 }
 
 .lawyers-header > span {
     position: absolute;
     top: 8vh;
-    left: 10vh;
+    left: 11vh;
     font-size: 1.2vh;
     height: 2vh;
     color: white;

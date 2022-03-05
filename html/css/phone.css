@@ -51,7 +51,7 @@
 }
 
 .phone-selected-footer-tab {
-    color: #17a2b8;
+    color: #0078e9;
 }
 
 .phone-contacts {
@@ -147,7 +147,7 @@
 }
 
 .phone-recent-call:hover {
-    background-color: #dc143c;
+    background-color: #0078e9;
 }
 .phone-recent-call-image {
     position: absolute;
@@ -259,7 +259,7 @@
 }
 
 .phone-contacts-header > i:hover {
-    color: #dc143c;
+    color: #0078e9;
 }
 
 /* #phone-search-icon {
@@ -302,7 +302,7 @@
 }
 
 .phone-contact-list::-webkit-scrollbar-thumb {
-    background-color: #dc143c;
+    background-color: #0078e9;
 }
 
 .phone-contact-list {
@@ -363,7 +363,7 @@
 }
 
 .phone-contact-actions:hover {
-    color: #e74c3c;
+    color: #0078e9;
 }
 
 .phone-contact-action-buttons {
@@ -389,7 +389,7 @@
 }
 
 .phone-contact-action-buttons > i:hover {
-    color: #dc143c;
+    color: #0078e9;
 }
 .phone-add-contact {
     display: none;
@@ -800,7 +800,7 @@
     animation: pulse 2s infinite;
 }
 #incoming-deny:hover {
-    color: #e74c3c;
+    color: #0078e9;
     background-color: rgba(255, 255, 255, 0.8);
     transition: .1s;
 }
@@ -852,7 +852,7 @@
     margin: 0 auto;
     left: 40.8%;
     transform: rotate(-135deg);
-    color: #e74c3c;
+    color: #0078e9;
     background-color: rgba(255, 255, 255, 0.8);
     padding: 1.5vh;
     font-size: 2.5vh;
@@ -963,7 +963,7 @@
     margin: 0 auto;
     left: 40.8%;
     transform: rotate(-135deg);
-    color: #e74c3c;
+    color: #0078e9;
     background-color: rgba(255, 255, 255, 0.8);
     padding: 1.5vh;
     font-size: 2.5vh;
@@ -1030,7 +1030,7 @@
 }
 
 .suggested-contact:hover {
-    background-color: #dc143c;
+    background-color: #0078e9;
 }
 
 .suggested-contact > i {

@@ -8,7 +8,7 @@ QB.Phone.ContactColors = {
     0: "#9b59b6",
     1: "#3498db",
     2: "#e67e22",
-    3: "#e74c3c",
+    3: "#0078e9",
     4: "#1abc9c",
     5: "#9c88ff",
 }
@@ -400,8 +400,8 @@ QB.Phone.Notifications.Add = function(icon, title, text, color, timeout) {
                     $(".notification-icon").css({"color":color});
                     $(".notification-title").css({"color":color});
                 } else if (color == "default" || color == null || color == undefined) {
-                    $(".notification-icon").css({"color":"#e74c3c"});
-                    $(".notification-title").css({"color":"#e74c3c"});
+                    $(".notification-icon").css({"color":"#0078e9"});
+                    $(".notification-title").css({"color":"#0078e9"});
                 }
                 if (!QB.Phone.Data.IsOpen) {
                     QB.Phone.Animations.BottomSlideUp('.container', 300, -52);
@@ -429,8 +429,8 @@ QB.Phone.Notifications.Add = function(icon, title, text, color, timeout) {
                     $(".notification-icon").css({"color":color});
                     $(".notification-title").css({"color":color});
                 } else {
-                    $(".notification-icon").css({"color":"#e74c3c"});
-                    $(".notification-title").css({"color":"#e74c3c"});
+                    $(".notification-icon").css({"color":"#0078e9"});
+                    $(".notification-title").css({"color":"#0078e9"});
                 }
                 if (!QB.Phone.Data.IsOpen) {
                     QB.Phone.Animations.BottomSlideUp('.container', 300, -52);

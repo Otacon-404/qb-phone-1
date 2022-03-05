@@ -65,7 +65,7 @@ QB.Phone.Functions.SetupRecentCalls = function(recentcalls) {
     $.each(recentcalls, function(i, recentCall){
         var FirstLetter = (recentCall.name).charAt(0);
         var TypeIcon = 'fas fa-phone-slash';
-        var IconStyle = "color: #e74c3c;";
+        var IconStyle = "color: #0078e9;";
         if (recentCall.type === "outgoing") {
             TypeIcon = 'fas fa-phone-volume';
             var IconStyle = "color: #2ecc71; font-size: 1.4vh;";
@@ -208,7 +208,7 @@ QB.Phone.Functions.LoadContacts = function(myContacts) {
                 ALLOWED_ATTR: []
             });
             if (contact.name == '') contact.name = 'Hmm, I shouldn\'t be able to do this...'
-            var ContactElement = '<div class="phone-contact" data-contactid="'+i+'"><div class="phone-contact-firstletter" style="background-color: #e74c3c;">'+((contact.name).charAt(0)).toUpperCase()+'</div><div class="phone-contact-name">'+contact.name+'</div><div class="phone-contact-actions"><i class="fas fa-sort-down"></i></div><div class="phone-contact-action-buttons"> <i class="fas fa-phone-volume" id="phone-start-call"></i> <i class="fab fa-whatsapp" id="new-chat-phone" style="font-size: 2.5vh;"></i> <i class="fas fa-user-edit" id="edit-contact"></i> </div></div>'
+            var ContactElement = '<div class="phone-contact" data-contactid="'+i+'"><div class="phone-contact-firstletter" style="background-color: #0078e9;">'+((contact.name).charAt(0)).toUpperCase()+'</div><div class="phone-contact-name">'+contact.name+'</div><div class="phone-contact-actions"><i class="fas fa-sort-down"></i></div><div class="phone-contact-action-buttons"> <i class="fas fa-phone-volume" id="phone-start-call"></i> <i class="fab fa-whatsapp" id="new-chat-phone" style="font-size: 2.5vh;"></i> <i class="fas fa-user-edit" id="edit-contact"></i> </div></div>'
             if (contact.status) {
                 ContactElement = '<div class="phone-contact" data-contactid="'+i+'"><div class="phone-contact-firstletter" style="background-color: #2ecc71;">'+((contact.name).charAt(0)).toUpperCase()+'</div><div class="phone-contact-name">'+contact.name+'</div><div class="phone-contact-actions"><i class="fas fa-sort-down"></i></div><div class="phone-contact-action-buttons"> <i class="fas fa-phone-volume" id="phone-start-call"></i> <i class="fab fa-whatsapp" id="new-chat-phone" style="font-size: 2.5vh;"></i> <i class="fas fa-user-edit" id="edit-contact"></i> </div></div>'
             }
