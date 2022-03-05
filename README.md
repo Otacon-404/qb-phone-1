@@ -6,10 +6,7 @@
  - This phone also have the camera looping fixed when the webhook is setup. (now it will automatically close the app when you will try to click a photo. Thanks to this [commit](https://github.com/qbcore-framework/qb-phone/pull/264/commits).) 
 
 
-# Discord
-### If you need any help then you can contact me on my discord server
-[![Discord](https://discord.com/api/guilds/946308780629557289/widget.png?style=banner2)](https://discord.gg/xHde7g93Yh)
- 
+
 ## Screenshots
 ![Home](https://i.imgur.com/QIUcIoK.png)
 ![Bank](https://i.imgur.com/Hoosk81.png)
@@ -126,3 +123,13 @@ Set the following variable to your webhook (For example, a Discord channel or Im
 ```
 local WebHook = ""
 ```
+
+
+# Discord
+
+QBCore Community Discord - https://discord.gg/qbcore
+
+### If you need any help then you can contact me on my discord server
+[![Discord](https://discord.com/api/guilds/946308780629557289/widget.png?style=banner2)](https://discord.gg/xHde7g93Yh)
+
+ 
